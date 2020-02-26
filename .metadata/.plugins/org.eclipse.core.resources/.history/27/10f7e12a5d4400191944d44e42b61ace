@@ -1,0 +1,14 @@
+
+public class ejercicio19 {
+	public static void main(String args[]){
+		int numero;
+		numero=2;
+		while(numero<=100){
+			numero=numero-1;
+			numero=numero+2;
+		}
+		System.out.println(numero);
+	}
+	
+
+}
